@@ -19,10 +19,10 @@ if (number % 2 === 0) {
 let day = "Monday";
 switch (day) {
     case "Monday":
-        console.log("It's Monday");
+        console.log("It's monday");
         break;
     case "Tuesday":
-        console.log("It's Tuesday");
+        console.log("It's tuesday");
         break;
     default:
         console.log("It's another day");
