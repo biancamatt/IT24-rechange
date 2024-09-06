@@ -16,7 +16,7 @@ let isTrue = number > 5 && boolean;
 
 
 // Conditional Statements
-// if 
+
 let wer = 2;
 if (wer > 5) {
     console.log("Were na you?");
@@ -28,7 +28,7 @@ if (number % 2 === 0) {
     console.log("Number is odd");
 }
 
-// switch
+// switch operation
 let day = 1;
 switch (day) {
     case 1:
